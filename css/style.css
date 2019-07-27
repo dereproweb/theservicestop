@@ -2268,3 +2268,14 @@ padding: 120px 10px 50px 350px;
 /*---------------------------------------------------
 ------- Media Queries for Split Layout Ends ---------
 ---------------------------------------------------*/
+
+.box-shd {
+	-webkit-box-shadow: 11px 14px 25px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: 11px 14px 25px -11px rgba(0,0,0,0.75);
+  box-shadow: 11px 14px 25px -11px rgba(0,0,0,0.75);
+  padding: 20px;
+  border: 1px solid #e7e7e7;
+}
+.srvc-fnt {
+	font-size: 100px
+}
